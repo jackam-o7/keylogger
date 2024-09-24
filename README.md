@@ -19,7 +19,7 @@ This project is focused on creating a simple keylogger in Kali Linux to capture 
 
 <img src="https://imgur.com/pZx6KY8.png" height="60%" width="60%" alt="installing pynput library"/> <br/>
 
-Now that everything was up-to-date and ready to go, I used the nano command to create the file in which my script would be written.
+Now that everything was up-to-date and ready to go, I used the nano command to create the file in which my script would be written. </br>
 <img src="https://imgur.com/ANYHHxb.png" height="40%" width="40%" alt="using nano to create python script"/> <br/>
 Nano is a command-line text editor and I used it here to create a new Python file called 'Keylogger.py', this allowed me to write and edit the code directly in the terminal environment, the script uses the pynput library to listen for keyboard events.
 - My script defines a function to log each keystroke to a file named 'key_log.txt'. It formats the keystrokes, handling special keys appropriately.
