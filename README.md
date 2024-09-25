@@ -5,6 +5,7 @@ This project is focused on creating a simple keylogger in Kali Linux to capture 
 ## Languages and Utilities used
 - Python
 - VirtualBox
+- Bash
   
 
 ## Environments used
